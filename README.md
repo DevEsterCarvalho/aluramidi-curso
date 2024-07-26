@@ -3,3 +3,5 @@ Tecnologias utilizadas:
 •	HTML
 •	CSS
 •	Java Script
+
+<a href="curriculo.html](https://vercel.com/ester-carvalho-dias-projects/aluramidi-curso">Link do projeto na vercel</a>
